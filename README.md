@@ -1,4 +1,3 @@
-markdown
 # Steam Key Activator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -67,4 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Disclaimer
 
 Use this software responsibly and ensure compliance with Steam's terms of service and any other relevant guidelines.
-```
