@@ -2,7 +2,10 @@
   <h1>Steam Key Activator</h1>
 </div>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<div align="center">
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+</div>
+
 
 Steam Key Activator is a Python-based tool that automatically applies Steam keys to activate games. It streamlines the activation process and helps you get your games up and running with minimal hassle.
 
