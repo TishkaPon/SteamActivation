@@ -51,7 +51,7 @@ Here's a simple example to get you started:
 from SteamKeyActivator.Activator import SteamActivator
 
 activator = SteamActivator() 
-answer_activation = activator.activate_key(code) 
+answer_activation = activator.activate_key("XXXXX-XXXXX-XXXXX") 
 
 print(answer_activation)
 ```
