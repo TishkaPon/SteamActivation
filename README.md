@@ -31,6 +31,10 @@ Install them via pip:
 ```bash
 pip install easyocr==1.7.2 numpy==2.2.4 opencv_python==4.11.0.86 opencv_python_headless==4.11.0.86 pyautogui==0.9.54 pywin32==309
 ```
+or
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
