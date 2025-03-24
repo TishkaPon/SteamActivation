@@ -20,7 +20,7 @@ Steam Key Activator is a Python-based tool that automatically applies Steam keys
 
 ---
 
-## Dependencies
+## Dependencies (Python 3.12.8)
 
 Make sure you have the following dependencies installed:
 
