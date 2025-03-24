@@ -1,4 +1,6 @@
-# Steam Key Activator
+<div align="center">
+  <h1>Steam Key Activator</h1>
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
