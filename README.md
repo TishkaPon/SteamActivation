@@ -7,7 +7,7 @@
 </div>
 
 
-Steam Key Activator is a Python-based tool that automatically applies Steam keys to activate games. It streamlines the activation process and helps you get your games up and running with minimal hassle.
+Steam Key Activator is a Python-based tool that automatically applies Steam keys to activate games.
 
 ---
 
