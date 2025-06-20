@@ -2,8 +2,8 @@ from telethon import TelegramClient, events
 from SteamKeyActivator.Activator import SteamActivator
 import re
 
-api_id = 20261096
-api_hash = '4f57917af4afc2a8977458202bbac1a5'
+api_id = 11111111
+api_hash = 'aaaaaasdasdasdawdwaddwafaasffsaf'
 
 client = TelegramClient('session_name', api_id, api_hash)
 
