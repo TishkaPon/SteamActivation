@@ -60,6 +60,12 @@ Replace `code` with the actual Steam key you want to activate.
 
 ---
 
+## Parsing from Telegram
+
+You can parse the keys from telegram thanks to the software FromTelegram.py just install it next to SteamKeyActivator!
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, bug reports, or enhancements, please feel free to open an issue or submit a pull request.
